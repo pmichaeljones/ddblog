@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[DoggieDashboard Blog]]></title>
-  <link href="https://blog.doggiedashboard.com/atom.xml" rel="self"/>
-  <link href="https://blog.doggiedashboard.com/"/>
-  <updated>2014-11-20T16:13:36-07:00</updated>
-  <id>https://blog.doggiedashboard.com/</id>
+  <link href="https://doggiedashboard.com/atom.xml" rel="self"/>
+  <link href="https://doggiedashboard.com/"/>
+  <updated>2014-11-20T16:20:30-07:00</updated>
+  <id>https://doggiedashboard.com/</id>
   <author>
     <name><![CDATA[Patrick Jones]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[5 Ways to Grow Your Doggie Daycare]]></title>
-    <link href="https://blog.doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare/"/>
+    <link href="https://doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare/"/>
     <updated>2014-11-20T15:56:30-07:00</updated>
-    <id>https://blog.doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare</id>
+    <id>https://doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare</id>
     <content type="html"><![CDATA[<p>HERE IS THE FIRST POST!</p>
 ]]></content>
   </entry>
