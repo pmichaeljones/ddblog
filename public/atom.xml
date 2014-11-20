@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-11-20T15:58:27-07:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[DoggieDashboard Blog]]></title>
+  <link href="http://doggiedashboard.com/atom.xml" rel="self"/>
+  <link href="http://doggiedashboard.com/"/>
+  <updated>2014-11-20T16:05:41-07:00</updated>
+  <id>http://doggiedashboard.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Patrick Jones]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[5 Ways to Grow Your Doggie Daycare]]></title>
-    <link href="http://yoursite.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare/"/>
+    <link href="http://doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare/"/>
     <updated>2014-11-20T15:56:30-07:00</updated>
-    <id>http://yoursite.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare</id>
+    <id>http://doggiedashboard.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare</id>
     <content type="html"><![CDATA[<p>HERE IS THE FIRST POST!</p>
 ]]></content>
   </entry>
