@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-11-20T15:48:13-07:00</updated>
+  <updated>2014-11-20T15:58:27-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[5 Ways to Grow Your Doggie Daycare]]></title>
+    <link href="http://yoursite.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare/"/>
+    <updated>2014-11-20T15:56:30-07:00</updated>
+    <id>http://yoursite.com/blog/2014/11/20/5-ways-to-grow-your-doggie-daycare</id>
+    <content type="html"><![CDATA[<p>HERE IS THE FIRST POST!</p>
+]]></content>
+  </entry>
   
 </feed>
