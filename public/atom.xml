@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DoggieDashboard Blog]]></title>
+  <title><![CDATA[DoggieDashboard.com Blog]]></title>
   <link href="https://doggiedashboard.com/atom.xml" rel="self"/>
   <link href="https://doggiedashboard.com/"/>
-  <updated>2014-11-20T16:20:30-07:00</updated>
+  <updated>2014-11-20T16:22:19-07:00</updated>
   <id>https://doggiedashboard.com/</id>
   <author>
-    <name><![CDATA[Patrick Jones]]></name>
+    <name><![CDATA[DoggieDashboard.com]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
