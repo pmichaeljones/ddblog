@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-Running a doggie daycare is hard work. You've spent hundreds of hours building your facility, getting all your business licenses and now it’s time to start making some money. Luckily, we here at DoggieDashboard are here to help. Here are 5 tips for increasing the business at your doggie daycare.
+Running a doggie daycare is hard work. You've spent hundreds of hours building your facility, getting all your business licenses and now it’s time to start making some money. Luckily, we here at [DoggieDashboard](https://doggiedashboard.com/) are here to help. Here are 5 tips for increasing the business at your doggie daycare.
 
 ## Offer a First Month Free Program
 ---
