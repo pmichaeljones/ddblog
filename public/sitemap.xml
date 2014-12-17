@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://doggiedashboard.com/blog/2014/12/17/3-steps-for-choosing-a-doggie-daycare-name/</loc>
+    <lastmod>2014-12-17T10:38:12-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://doggiedashboard.com/blog/2014/12/15/3-benefits-of-using-free-kennel-management-software/</loc>
     <lastmod>2014-12-15T16:34:09-07:00</lastmod>
     <priority>0.8</priority>
@@ -32,13 +37,13 @@
   </url>
   <url>
     <loc>https://doggiedashboard.com/blog/archives/</loc>
-    <lastmod>2014-12-15T16:42:40-07:00</lastmod>
+    <lastmod>2014-12-17T10:47:56-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://doggiedashboard.com/</loc>
-    <lastmod>2014-12-15T16:42:40-07:00</lastmod>
+    <lastmod>2014-12-17T10:47:56-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
