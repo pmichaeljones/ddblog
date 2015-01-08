@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://blog.doggiedashboard.com/sitemap.xml 
+Sitemap: http://blog.doggiedashboard.com/sitemap.xml 
